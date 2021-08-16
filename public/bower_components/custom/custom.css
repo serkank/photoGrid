@@ -1,0 +1,10 @@
+.mesafe10{margin-top: 10px;}
+.mesafe20{margin-top: 20px;}
+.mesafe30{margin-top: 30px;}
+.mesafe40{margin-top: 40px;}
+.mesafe50{margin-top: 50px;}
+
+#sortable { list-style-type: none; margin: 0; padding: 0; width: 450px; }
+#sortable li { margin: 3px 3px 3px 0; padding: 1px; float: left; width: 100px; /*height: 90px;*/ font-size: 4em; text-align: center; }
+
+.view-image{max-height: 100px; max-width: 100px;}

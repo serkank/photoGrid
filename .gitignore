@@ -1,0 +1,14 @@
+/node_modules
+/public/hot
+/public/storage
+/public/bower_components/bootstrap
+/public/bower_components/jquery
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
