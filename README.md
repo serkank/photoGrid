@@ -9,9 +9,9 @@
 
 # Requirements
 
-PHP ^7.2.5
-MYSQL ^5.7
-bower package installer
+# PHP ^7.2.5
+# MYSQL ^5.7
+# bower package installer
 
 ### Note
 
@@ -22,10 +22,10 @@ bower package installer
 You can install the bindings via [Composer](http://getcomposer.org/). Run the following command
 ### Bower
 
-composer install
-bower install bootstrap
-bower install jquery
-php artisan migrate:install 
+# composer install
+# bower install bootstrap
+# bower install jquery
+# php artisan migrate:install 
 
 
 ## License
